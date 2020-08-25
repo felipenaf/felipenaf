@@ -4,7 +4,7 @@
 Me chamo Felipe, sou dev back end e as vezes meto o loko lá no front 🤯.
 
 - 👨‍💻: Trabalho com PHP e Javascript.
-- 👨‍🎓: Atualmente estou estudando React e a infra da Amazon AWS
+- 👨‍🎓: Atualmente estou estudando infra da Amazon AWS
 - ⚡: Nas horas vagas é lendo uns livros (📚) e assitindo uns filmes (🎞️).
 
 Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é só dar um toque. 😀
