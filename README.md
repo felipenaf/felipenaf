@@ -1,7 +1,7 @@
 🇧🇷
 ### Fala pessoal 👋
 
-Me chamo Felipe, sou dev back end e as vezes meto o loko lá no front 🤯.
+Me chamo Felipe, sou dev back end e as vezes me aventuro no front 🤯.
 
 - 👨‍💻: Trabalho com PHP e Javascript.
 - 👨‍🎓: Atualmente estou estudando infra da Amazon AWS
