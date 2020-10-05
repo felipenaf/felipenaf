@@ -12,6 +12,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bipaoDev)](https://twitter.com/bipaoDev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipenaf)](https://www.linkedin.com/in/felipenaf)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipenaf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **felipenaf/felipenaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
