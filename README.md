@@ -39,10 +39,30 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
       height="40"
     />
   </a>
+
+  <a href="https://www.javascript.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.java.com/en/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <br />
   
   <a href="https://codeigniter.com/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg"
       alt="codeigniter"
       width="40"
       height="40"
@@ -51,8 +71,19 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   
   <a href="https://laravel.com/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
       alt="codeigniter"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <br />
+  
+  <a href="https://github.com/torvalds/linux" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
+      alt="aws"
       width="40"
       height="40"
     />
@@ -60,14 +91,87 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   
   <a href="https://aws.amazon.com/" target="_blank">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
       alt="aws"
       width="40"
       height="40"
     />
   </a>
-</p>
 
+  <a href="https://www.apache.org/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <br />
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://jquery.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
+      alt="codeigniter"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 <!--
 **felipenaf/felipenaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
