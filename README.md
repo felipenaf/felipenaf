@@ -12,7 +12,61 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bipaoDev)](https://twitter.com/bipaoDev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipenaf)](https://www.linkedin.com/in/felipenaf)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipenaf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipenaf&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=felipenaf&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+<br/>
+
+<p align="left">
+  <a href="https://www.php.net/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://codeigniter.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg"
+      alt="codeigniter"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://laravel.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"
+      alt="codeigniter"
+      width="40"
+      height="40"
+    />
+  </a>
+  
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 <!--
 **felipenaf/felipenaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
