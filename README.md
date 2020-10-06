@@ -4,7 +4,7 @@
 Me chamo Felipe, sou dev back end e as vezes me aventuro no front 🤯.
 
 - 👨‍💻: Trabalho com PHP e Javascript.
-- 👨‍🎓: Atualmente estou estudando infra da Amazon AWS
+- 👨‍🎓: Sempre lendo sobre melhores práticas.
 - ⚡: Nas horas vagas é lendo uns livros (📚) e assitindo uns filmes (🎞️).
 
 Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é só dar um toque. 😀
@@ -43,7 +43,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://www.javascript.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      alt="php"
+      alt="javascript"
       width="40"
       height="40"
     />
@@ -52,7 +52,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://www.java.com/en/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-      alt="php"
+      alt="java"
       width="40"
       height="40"
     />
@@ -72,7 +72,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://laravel.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
-      alt="codeigniter"
+      alt="laravel"
       width="40"
       height="40"
     />
@@ -83,7 +83,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://github.com/torvalds/linux" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-      alt="aws"
+      alt="linux"
       width="40"
       height="40"
     />
@@ -101,7 +101,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://www.apache.org/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg"
-      alt="aws"
+      alt="apache"
       width="40"
       height="40"
     />
@@ -110,7 +110,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-      alt="aws"
+      alt="git"
       width="40"
       height="40"
     />
@@ -119,7 +119,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://www.npmjs.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
-      alt="aws"
+      alt="npm"
       width="40"
       height="40"
     />
@@ -128,7 +128,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
-      alt="aws"
+      alt="mysql"
       width="40"
       height="40"
     />
@@ -139,7 +139,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-      alt="aws"
+      alt="html"
       width="40"
       height="40"
     />
@@ -148,7 +148,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-      alt="aws"
+      alt="css"
       width="40"
       height="40"
     />
@@ -157,7 +157,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://getbootstrap.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
-      alt="aws"
+      alt="bootstrap"
       width="40"
       height="40"
     />
@@ -166,7 +166,7 @@ Quando quiser trocar uma idéia sobre tecnologia ou me indicar um bom filme é s
   <a href="https://jquery.com/" target="_blank">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"
-      alt="codeigniter"
+      alt="jquery"
       width="40"
       height="40"
     />
