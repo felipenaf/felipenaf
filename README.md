@@ -1,9 +1,9 @@
 🇧🇷
 ### Fala pessoal 👋
 
-Me chamo Felipe, sou dev back end e as vezes me aventuro no front 🤯.
+Me chamo Felipe, sou dev com foco em back end mas as vezes me aventuro no front.
 
-- 👨‍💻: Trabalho com PHP e Javascript.
+- 👨‍💻: Trabalho com PHP.
 - 👨‍🎓: Sempre lendo sobre melhores práticas.
 - ⚡: Nas horas vagas é lendo uns livros (📚) e assitindo uns filmes (🎞️).
 
